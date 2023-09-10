@@ -1,0 +1,54 @@
+
+
+body{
+   margin: 50px; 
+   background-color: #042940;
+}
+
+
+h1{
+    text-align: center;
+    color: #D6D58E ;
+    font-size: 40px;
+}
+
+h2{
+    color: #fafafa ;
+    font-size: 30px;  
+}
+
+
+p{
+    font-size: 20px;
+    color: #f7d3a7;
+}
+
+img{
+    height: 450px;
+    border-radius: 50%;
+}
+
+
+#menu-h{
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+#menu-h li{
+    display: inline;
+
+}
+
+#menu-h li a{
+    display: inline-block;
+    padding: 20px;
+    color: #fafafa;
+    text-decoration: none;
+}
+
+
+
+.img_redes{
+    height: 50px;
+}
